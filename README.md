@@ -18,7 +18,7 @@ Perform data cleaning (resizing, augmentation, balancing classes).
 Use TensorFlow/Keras to build and train a Convolutional Neural Network (CNN).
 Fine-tune the model for better accuracy.
 
-3.Used Twilio SMS API for message based support.
+3. Used Twilio SMS API for message based support.
 
 Code for Dataset:
 import kagglehub
