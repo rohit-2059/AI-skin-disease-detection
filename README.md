@@ -21,6 +21,8 @@ Fine-tune the model for better accuracy.
 
 3. Used Twilio SMS API for message based support.
 
+4. Check sample.pdf for sample images of the project. 
+
 Code for Dataset:
 import kagglehub
 path = kagglehub.dataset_download("kmader/skin-cancer-mnist-ham10000")
