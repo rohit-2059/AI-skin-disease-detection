@@ -1,4 +1,4 @@
-#DermaSense.ai
+# DermaSense.ai
 Many people face difficulty in accessing dermatologists for basic skin check-ups due to high consultation fees, limited availability, or geographical constraints. This can lead to delayed diagnosis and worsening of skin conditions.
 
 An AI-powered system that allows users to upload images of their skin conditions. The AI model, trained using deep learning techniques, will analyze the image and provide potential diagnoses, helping users take the next steps, such as consulting a specialist if necessary.
